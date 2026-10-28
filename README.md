@@ -31,14 +31,14 @@ I build firmware for industrial and IoT products. I work at register level on PI
 - 📁 [**LSB Image Steganography in C**](https://github.com/Nileshkm911/LSB-Image-Steganography): Bit-level data hiding and extraction within 24-bit BMP image pixel streams.
 - 📁 [**Address Book Management System**](https://github.com/Nileshkm911/address-book-management-system-c): Modular console contact management with disk persistence and string validation.
 - 📁 [**Automatic Door Controller**](https://github.com/Nileshkm911/Upskillcampus): Sensor- and actuator-driven door control firmware.
-- 📁 **EcoBin Smart Garbage Segregator**: Multi-sensor waste sorting system using inductive/capacitive sensors and servo actuation.
+- 📁 [**EcoBin Smart Garbage Segregator**](https://ijsrem.com/download/ecobin-smart-garbage-segregator): Multi-sensor waste sorting system using inductive/capacitive sensors and servo actuation (Published in IJSREM).
 - 📁 **Car Black Box (PIC18F2520)**: Interrupt-driven vehicle event logger with ADC, external EEPROM, RTC, and UART telemetry.
 
 ---
 
 ## 🏆 Achievements & Publications
 - 🥇 **Winner (1st Prize)**: National Conference on Engineering Projects, MVP's KBT COE.
-- 📄 **Research Publication**: *EcoBin – Smart Garbage Segregator*, published in **IJSREM** (International Journal of Scientific Research in Engineering and Management).
+- 📄 **Research Publication**: [EcoBin – Smart Garbage Segregator (IJSREM)](https://ijsrem.com/download/ecobin-smart-garbage-segregator)
 - 💡 **Participant**: Smart India Hackathon (SIH) 2025.
 
 ---
