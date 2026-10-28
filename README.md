@@ -28,10 +28,13 @@ I build firmware for industrial and IoT products. I work at register level on PI
 
 ## 🚀 Featured Projects
 
+- 📁 [**MP3 Tag Reader & Editor (ID3v2.3)**](https://github.com/Nileshkm911/mp3-tag-reader-editor): Fast binary metadata parser, synchsafe integer decoder, and dynamic in-place/streaming patcher.
 - 📁 [**LSB Image Steganography in C**](https://github.com/Nileshkm911/LSB-Image-Steganography): Bit-level data hiding and extraction within 24-bit BMP image pixel streams.
+- 📁 [**C Source Code to HTML Converter**](https://github.com/Nileshkm911/c-source-to-html-converter): Lexical state machine converting C source files to syntax-highlighted HTML with dark theme.
+- 📁 [**C Lexical Analyzer**](https://github.com/Nileshkm911/c-lexical-analyzer): Compiler front-end token scanner classifying keywords, identifiers, constants, and operators.
 - 📁 [**Address Book Management System**](https://github.com/Nileshkm911/address-book-management-system-c): Modular console contact management with disk persistence and string validation.
-- 📁 [**Automatic Door Controller**](https://github.com/Nileshkm911/Upskillcampus): Sensor- and actuator-driven door control firmware.
 - 📁 [**EcoBin Smart Garbage Segregator**](https://ijsrem.com/download/ecobin-smart-garbage-segregator): Multi-sensor waste sorting system using inductive/capacitive sensors and servo actuation (Published in IJSREM).
+- 📁 [**Automatic Door Controller**](https://github.com/Nileshkm911/Upskillcampus): Sensor- and actuator-driven door control firmware.
 - 📁 **Car Black Box (PIC18F2520)**: Interrupt-driven vehicle event logger with ADC, external EEPROM, RTC, and UART telemetry.
 
 ---
