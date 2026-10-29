@@ -35,7 +35,7 @@ I build firmware for industrial and IoT products. I work at register level on PI
 - 📁 [**Address Book Management System**](https://github.com/Nileshkm911/address-book-management-system-c): Modular console contact management with disk persistence and string validation.
 - 📁 [**EcoBin Smart Garbage Segregator**](https://ijsrem.com/download/ecobin-smart-garbage-segregator): Multi-sensor waste sorting system using inductive/capacitive sensors and servo actuation (Published in IJSREM).
 - 📁 [**Automatic Door Controller**](https://github.com/Nileshkm911/Upskillcampus): Sensor- and actuator-driven door control firmware.
-- 📁 **Car Black Box (PIC18F2520)**: Interrupt-driven vehicle event logger with ADC, external EEPROM, RTC, and UART telemetry.
+- 📁 [**Car Black Box (PIC16F877A)**](https://github.com/Nileshkm911/Car-Black-Box-PIC16F877A): Interrupt-driven automotive telemetry logger tracking gear shifts, speed, and collisions in internal EEPROM with DS1307 RTC, security lockout, and UART telemetry offloading.
 
 ---
 
