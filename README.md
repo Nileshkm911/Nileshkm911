@@ -33,7 +33,7 @@ I build firmware for industrial and IoT products. I work at register level on PI
 - 📁 [**C Source Code to HTML Converter**](https://github.com/Nileshkm911/c-source-to-html-converter): Lexical state machine converting C source files to syntax-highlighted HTML with dark theme.
 - 📁 [**C Lexical Analyzer**](https://github.com/Nileshkm911/c-lexical-analyzer): Compiler front-end token scanner classifying keywords, identifiers, constants, and operators.
 - 📁 [**Address Book Management System**](https://github.com/Nileshkm911/address-book-management-system-c): Modular console contact management with disk persistence and string validation.
-- 📁 [**EcoBin Smart Garbage Segregator**](https://ijsrem.com/download/ecobin-smart-garbage-segregator): Multi-sensor waste sorting system using inductive/capacitive sensors and servo actuation (Published in IJSREM).
+- 📁 [**ECOBIN – Smart Garbage Segregator**](https://github.com/Nileshkm911/ECOBIN---Smart-Garbage-Segregator): Autonomous 4-compartment segregation station (Arduino Nano + ESP32) with contactless lid, multi-tier probing, shuffle-bag classification, and rotary ultrasonic depth monitoring ([Research Paper](https://ijsrem.com/download/ecobin-smart-garbage-segregator) | [Demo Video](https://youtu.be/igeQyjO0Dbg?si=-BSxT7XOAUVGwC76)).
 - 📁 [**Automatic Door Controller**](https://github.com/Nileshkm911/Upskillcampus): Sensor- and actuator-driven door control firmware.
 - 📁 [**Car Black Box (PIC16F877A)**](https://github.com/Nileshkm911/Car-Black-Box-PIC16F877A): Interrupt-driven automotive telemetry logger tracking gear shifts, speed, and collisions in internal EEPROM with DS1307 RTC, security lockout, and UART telemetry offloading.
 
