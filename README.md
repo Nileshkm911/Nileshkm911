@@ -17,10 +17,9 @@ I build firmware for industrial and IoT products. I work at register level on PI
 | Area | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Embedded C, Advanced C, C++ |
-| **Microcontrollers** | PIC18F25K22, PIC18F2520, PIC16F877A, Nuvoton MS51PC0AE, ESP32, Arduino |
-| **Peripherals** | GPIO, ADC, EEPROM, Timers, Interrupts, PWM, 4-20mA & 0-10V analog inputs |
-| **Protocols** | UART, SPI, I2C, CAN, RS485, Modbus RTU |
-| **Linux Programming** | System calls, IPC (pipes, FIFOs, message queues), signals, pthreads, UDP sockets |
+| **Microcontrollers** | PIC18F25K22, PIC18F2520, PIC16F877A, ESP32, Arduino |
+| **Peripherals** | GPIO, ADC, EEPROM, Timers, Interrupts, PWM|
+| **Protocols** | UART, SPI, I2C, CAN, RS485|
 | **Hardware & Test** | PCB design, schematics, digital oscilloscope, logic analyzer |
 | **Toolchains & IDEs** | MPLAB X, XC8, GCC, Proteus, Keil |
 
@@ -40,7 +39,7 @@ I build firmware for industrial and IoT products. I work at register level on PI
 ---
 
 ## 🏆 Achievements & Publications
-- 🥇 **Winner (1st Prize)**: National Conference on Engineering Projects, MVP's KBT COE.
+- 🥇 **Winner (1st Prize)**: National Conference on Engineering Projects(2022), MVP's RSM Polytechnic.
 - 📄 **Research Publication**: [EcoBin – Smart Garbage Segregator (IJSREM)](https://ijsrem.com/download/ecobin-smart-garbage-segregator)
 - 💡 **Participant**: Smart India Hackathon (SIH) 2025.
 
