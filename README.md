@@ -22,7 +22,7 @@ I build firmware for industrial and IoT products. I work at register level on PI
 | **Protocols** | UART, SPI, I2C, CAN, RS485, Modbus RTU |
 | **Linux Programming** | System calls, IPC (pipes, FIFOs, message queues), signals, pthreads, UDP sockets |
 | **Hardware & Test** | PCB design, schematics, digital oscilloscope, logic analyzer |
-| **Toolchains & IDEs** | MPLAB X, XC8, GCC, Make, Git, Proteus, Keil |
+| **Toolchains & IDEs** | MPLAB X, XC8, GCC, Proteus, Keil |
 
 ---
 
